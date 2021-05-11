@@ -1,7 +1,12 @@
-# Pull request a week in the course
+# D1MAT: Week #.
 
-Let's finish another week! Please check all requirements before pull request.
-Hope you've enjoyed and learned something... preferably something useful!
+## Week description
+
+- What was lecture subject?
+- What did you learn?
+- Any doubt remains?
+- What practices and exercises did you do?
+- What could you have been done differently?
 
 ## Checklist
 
