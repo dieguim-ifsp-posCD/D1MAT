@@ -18,6 +18,7 @@
   - [ ] Exercises list
   - [ ] Exercises list resolution
   - [ ] Exercises list final submission file
+  - [ ] Lecture summary
 - [ ] Saved lecture recording video locally
 - [ ] Completed exercises submission on _moodle_
 - [ ] Reviewed lecture topics to be sure no doubt remains
